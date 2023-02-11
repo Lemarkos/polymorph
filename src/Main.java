@@ -30,7 +30,7 @@ public class Main {
         m1.aboutMe();
         s1.aboutMe();
         System.out.println(courses.avarageAge(persons));
-        System.out.println(courses.isYounger(s1, persons));
+//        System.out.println(courses.isYounger(s1, persons));
 
     }
 }
